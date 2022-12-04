@@ -1,4 +1,4 @@
-# adventofcode
+# adventofcode 2022
 may be done in COBOL, Python or REXX
 
 update:
